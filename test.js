@@ -1,1 +1,1 @@
-console.log();
+var num = 0;
