@@ -7,3 +7,5 @@ var num = 2;
 var num = 3;
 
 var num = 4;
+
+var num = 5;
