@@ -11,3 +11,5 @@ var num = 4;
 var num = 5;
 
 var num = 6;
+
+var num = 7;
